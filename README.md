@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Highcharts documentation: https://www.highcharts.com/blog/post/highcharts-wrapper-for-react-101/
+
 ## Available Scripts
 
 In the project directory, you can run:
